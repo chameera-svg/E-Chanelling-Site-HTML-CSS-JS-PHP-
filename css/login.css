@@ -1,0 +1,37 @@
+body{
+  background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: serif;
+  /*margin: auto;*/
+}
+.login-box{
+  max-width: 330px;
+  margin: 150px auto;
+  background-color: rgb(0,0,0,0.5);
+  padding:30px;
+  margin-left: 270px;
+}
+.box{
+  width: 250px;
+  color: white;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  color: white;
+  font-family: serif;
+}
+
+.container{
+  display: inline-flex;
+}
+p{
+  font-weight: normal;
+}

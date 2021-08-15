@@ -1,0 +1,91 @@
+
+.box{
+  background: linear-gradient(#65dfc9,#6cdbeb);
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  margin: 60px;
+  padding: 30px;
+
+}
+
+.box h2{
+  text-align: center;
+  font-size: 40px;
+  margin-top: -20px;
+  color: #2620B8;
+  font-weight: bold;
+}
+
+.inter-box{
+  background: linear-gradient(rgba(255,255,255, 0.7),rgba(255,255,255,0.3));
+  background-size: cover;
+  background-position: center;
+  height: 10vh;
+  margin: 60px;
+  padding: 80px;
+  border-radius: 30px;
+  width: 70%;
+
+}
+
+
+.inter-box p{
+  text-align: left;
+  font-size: 20px;
+  margin-top: -60px;
+}
+
+
+.box3{
+  background: linear-gradient(#65dfc9,#6cdbeb);
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  margin-top: 5px;
+  padding: 10px;
+  width: 97%;
+  display: inline-flex;
+}
+
+.sbox1{
+  
+  width: 40%;
+}
+
+.sbox2{
+  width: 40%;
+}
+
+
+.sbox3{
+  width: 40%;
+}
+
+
+.sbox4{
+  width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.foo{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 25px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: -12px;
+
+}

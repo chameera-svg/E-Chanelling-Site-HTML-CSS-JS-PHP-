@@ -1,0 +1,10 @@
+body{
+  background: linear-gradient(to right top,#65dfc9,#6cdbeb);
+  background-size: cover;
+  background-position: center;
+}
+
+h1{
+	font-weight: bold;
+	text-align: center;
+}
